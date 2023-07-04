@@ -1,0 +1,156 @@
+2023-07-04 02:23:24 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fb2f4716880; archive(resolved)="<IDEArchive: 0x60003853fa20>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDevelopmentSigned: 0x60009e267220>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x6000039b8e80; teamID='CWBAHTM5BD', teamName='Lucas Neto Santana', teamType='Individual', username='lucasnetosantana@gmail.com', isFreeProvisioningTeam='0'>">
+	Chain (14, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fb2f4716880; archive = "<IDEArchive: 0x60003853fa20>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60009e267220>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000039b8e80; teamID='CWBAHTM5BD', teamName='Lucas Neto Santana', teamType='Individual', username='lucasnetosantana@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x7fb2c452beb0; archive = "<IDEArchive: 0x60003853fa20>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60009e267220>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000039b8e80; teamID='CWBAHTM5BD', teamName='Lucas Neto Santana', teamType='Individual', username='lucasnetosantana@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fb2c69f6630; archive = "<IDEArchive: 0x60003853fa20>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60009e267220>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000039b8e80; teamID='CWBAHTM5BD', teamName='Lucas Neto Santana', teamType='Individual', username='lucasnetosantana@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fb2c7bb1f70; archive = "<IDEArchive: 0x60003853fa20>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60009e267220>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000039b8e80; teamID='CWBAHTM5BD', teamName='Lucas Neto Santana', teamType='Individual', username='lucasnetosantana@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fb2c92b2b40; archive = "<IDEArchive: 0x60003853fa20>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60009e267220>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000039b8e80; teamID='CWBAHTM5BD', teamName='Lucas Neto Santana', teamType='Individual', username='lucasnetosantana@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fb2e41a72b0; archive = "<IDEArchive: 0x60003853fa20>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60009e267220>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000039b8e80; teamID='CWBAHTM5BD', teamName='Lucas Neto Santana', teamType='Individual', username='lucasnetosantana@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fb2c451bda0; archive = "<IDEArchive: 0x60003853fa20>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60009e267220>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000039b8e80; teamID='CWBAHTM5BD', teamName='Lucas Neto Santana', teamType='Individual', username='lucasnetosantana@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fb2c92611c0; archive = "<IDEArchive: 0x60003853fa20>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60009e267220>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000039b8e80; teamID='CWBAHTM5BD', teamName='Lucas Neto Santana', teamType='Individual', username='lucasnetosantana@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fb2ec1202b0; archive = "<IDEArchive: 0x60003853fa20>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60009e267220>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000039b8e80; teamID='CWBAHTM5BD', teamName='Lucas Neto Santana', teamType='Individual', username='lucasnetosantana@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fb2f8966a90; archive = "<IDEArchive: 0x60003853fa20>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60009e267220>", team="(null)">
+	<IDEDistributionContext: 0x7fb2e41f3180; archive = "<IDEArchive: 0x60003853fa20>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60009e267220>", team="(null)">
+	<IDEDistributionContext: 0x7fb2c560d470; archive = "<IDEArchive: 0x60003853fa20>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60009e267220>", team="(null)">
+	<IDEDistributionContext: 0x7fb2cd8e8c90; archive = "<IDEArchive: 0x60003853fa20>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60009e267220>", team="(null)">
+	<IDEDistributionContext: 0x7fb2ec2dafb0; archive = "<IDEArchive: 0x60003853fa20>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x7fb2f4716880>
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionCreateDestRootStep
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionCopyItemStep
+2023-07-04 02:23:24 +0000  Running /usr/bin/ditto '-V' '/Users/lucasnsantana/Library/Developer/Xcode/Archives/2023-07-03/TVShows 03-07-23 23.16.xcarchive/Products/Applications/TVShows.app' '/var/folders/3n/d7d4qt690wl60js5_4g_r2440000gn/T/XcodeDistPipeline.~~~dTsv4V/Root/Payload/TVShows.app'
+2023-07-04 02:23:24 +0000  >>> Copying /Users/lucasnsantana/Library/Developer/Xcode/Archives/2023-07-03/TVShows 03-07-23 23.16.xcarchive/Products/Applications/TVShows.app 
+2023-07-04 02:23:24 +0000  copying file ./_CodeSignature/CodeResources ... 
+2023-07-04 02:23:24 +0000  5037 bytes for ./_CodeSignature/CodeResources
+2023-07-04 02:23:24 +0000  copying file ./TVShowListCell.nib ... 
+2023-07-04 02:23:24 +0000  4920 bytes for ./TVShowListCell.nib
+2023-07-04 02:23:24 +0000  copying file ./TVShowDetailViewController.nib ... 
+2023-07-04 02:23:24 +0000  7580 bytes for ./TVShowDetailViewController.nib
+2023-07-04 02:23:24 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2023-07-04 02:23:24 +0000  930 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2023-07-04 02:23:24 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2023-07-04 02:23:24 +0000  1197 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2023-07-04 02:23:24 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2023-07-04 02:23:24 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2023-07-04 02:23:24 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-07-04 02:23:24 +0000  1645 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2023-07-04 02:23:24 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2023-07-04 02:23:24 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2023-07-04 02:23:24 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2023-07-04 02:23:24 +0000  copying file ./TVShows ... 
+2023-07-04 02:23:24 +0000  247856 bytes for ./TVShows
+copying file ./Assets.car ... 
+2023-07-04 02:23:24 +0000  81663 bytes for ./Assets.car
+2023-07-04 02:23:24 +0000  copying file ./TVShowDetailCell.nib ... 
+2023-07-04 02:23:24 +0000  6125 bytes for ./TVShowDetailCell.nib
+2023-07-04 02:23:24 +0000  copying file ./TVShowListViewController.nib ... 
+2023-07-04 02:23:24 +0000  6863 bytes for ./TVShowListViewController.nib
+2023-07-04 02:23:24 +0000  copying file ./embedded.mobileprovision ... 
+2023-07-04 02:23:24 +0000  12493 bytes for ./embedded.mobileprovision
+2023-07-04 02:23:24 +0000  copying file ./Info.plist ... 
+2023-07-04 02:23:24 +0000  1465 bytes for ./Info.plist
+2023-07-04 02:23:24 +0000  copying file ./PkgInfo ... 
+2023-07-04 02:23:24 +0000  8 bytes for ./PkgInfo
+2023-07-04 02:23:24 +0000  /usr/bin/ditto exited with 0
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionEmbedProfileStep
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionInfoPlistStep
+2023-07-04 02:23:24 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2023-07-04 02:23:24 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2023-07-04 02:23:24 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2023-07-04 02:23:24 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionSymbolsStep
+2023-07-04 02:23:24 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionAppThinningStep
+2023-07-04 02:23:24 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionArchThinningStep
+2023-07-04 02:23:24 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/3n/d7d4qt690wl60js5_4g_r2440000gn/T/XcodeDistPipeline.~~~dTsv4V/Root/Payload/TVShows.app/TVShows' '-verify_arch' 'arm64e'
+2023-07-04 02:23:24 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-07-04 02:23:24 +0000  Skipping architecture thinning for item "TVShows" because arch "arm64e" wasn't found
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionODRStep
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionStripXattrsStep
+2023-07-04 02:23:24 +0000  Running /usr/bin/xattr '-crs' '/var/folders/3n/d7d4qt690wl60js5_4g_r2440000gn/T/XcodeDistPipeline.~~~dTsv4V/Root/Payload/TVShows.app'
+2023-07-04 02:23:24 +0000  /usr/bin/xattr exited with 0
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionCodesignStep
+2023-07-04 02:23:24 +0000  Entitlements for <IDEDistributionItem: 0x6000385156e0; bundleID='lucas.com.TVShows', path='<DVTFilePath:0x600040812ca0:'/Users/lucasnsantana/Library/Developer/Xcode/Archives/2023-07-03/TVShows 03-07-23 23.16.xcarchive/Products/Applications/TVShows.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600098309680; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60001573acb0; name='Apple Development: lucasnetosantana@gmail.com (3S7CF8EZKX)', hash='6C3BB12BED498DF84A146CFDE9A2B73657FCDB02', serialNumber='6A6183F66E8EC53F961085F8E278774E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-28 19:37:17 +0000''>', entitlements='{
+    "application-identifier" = "CWBAHTM5BD.lucas.com.TVShows";
+    "com.apple.developer.team-identifier" = CWBAHTM5BD;
+    "get-task-allow" = 1;
+}', teamID='CWBAHTM5BD', identifier='lucas.com.TVShows', executablePath='<DVTFilePath:0x600038514300:'/Users/lucasnsantana/Library/Developer/Xcode/Archives/2023-07-03/TVShows 03-07-23 23.16.xcarchive/Products/Applications/TVShows.app/TVShows'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "CWBAHTM5BD.lucas.com.TVShows";
+    "com.apple.developer.team-identifier" = CWBAHTM5BD;
+    "get-task-allow" = 1;
+}
+2023-07-04 02:23:24 +0000  Entitlements for <IDEDistributionItem: 0x6000385156e0; bundleID='lucas.com.TVShows', path='<DVTFilePath:0x600040812ca0:'/Users/lucasnsantana/Library/Developer/Xcode/Archives/2023-07-03/TVShows 03-07-23 23.16.xcarchive/Products/Applications/TVShows.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600098309680; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60001573ba70; name='Apple Development: lucasnetosantana@gmail.com (3S7CF8EZKX)', hash='6C3BB12BED498DF84A146CFDE9A2B73657FCDB02', serialNumber='6A6183F66E8EC53F961085F8E278774E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-28 19:37:17 +0000''>', entitlements='{
+    "application-identifier" = "CWBAHTM5BD.lucas.com.TVShows";
+    "com.apple.developer.team-identifier" = CWBAHTM5BD;
+    "get-task-allow" = 1;
+}', teamID='CWBAHTM5BD', identifier='lucas.com.TVShows', executablePath='<DVTFilePath:0x600038514300:'/Users/lucasnsantana/Library/Developer/Xcode/Archives/2023-07-03/TVShows 03-07-23 23.16.xcarchive/Products/Applications/TVShows.app/TVShows'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "CWBAHTM5BD.lucas.com.TVShows";
+    "com.apple.developer.team-identifier" = CWBAHTM5BD;
+    "get-task-allow" = 1;
+}
+2023-07-04 02:23:24 +0000  Writing entitlements for <IDEDistributionItem: 0x6000385156e0; bundleID='lucas.com.TVShows', path='<DVTFilePath:0x600040812ca0:'/Users/lucasnsantana/Library/Developer/Xcode/Archives/2023-07-03/TVShows 03-07-23 23.16.xcarchive/Products/Applications/TVShows.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600098309680; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60001573a680; name='Apple Development: lucasnetosantana@gmail.com (3S7CF8EZKX)', hash='6C3BB12BED498DF84A146CFDE9A2B73657FCDB02', serialNumber='6A6183F66E8EC53F961085F8E278774E', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-03-28 19:37:17 +0000''>', entitlements='{
+    "application-identifier" = "CWBAHTM5BD.lucas.com.TVShows";
+    "com.apple.developer.team-identifier" = CWBAHTM5BD;
+    "get-task-allow" = 1;
+}', teamID='CWBAHTM5BD', identifier='lucas.com.TVShows', executablePath='<DVTFilePath:0x600038514300:'/Users/lucasnsantana/Library/Developer/Xcode/Archives/2023-07-03/TVShows 03-07-23 23.16.xcarchive/Products/Applications/TVShows.app/TVShows'>', hardenedRuntime='0'>'> to: /var/folders/3n/d7d4qt690wl60js5_4g_r2440000gn/T/XcodeDistPipeline.~~~dTsv4V/entitlements~~~64psHC
+2023-07-04 02:23:24 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '6C3BB12BED498DF84A146CFDE9A2B73657FCDB02' '--entitlements' '/var/folders/3n/d7d4qt690wl60js5_4g_r2440000gn/T/XcodeDistPipeline.~~~dTsv4V/entitlements~~~64psHC' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/3n/d7d4qt690wl60js5_4g_r2440000gn/T/XcodeDistPipeline.~~~dTsv4V/Root/Payload/TVShows.app'
+2023-07-04 02:23:24 +0000  /var/folders/3n/d7d4qt690wl60js5_4g_r2440000gn/T/XcodeDistPipeline.~~~dTsv4V/Root/Payload/TVShows.app: replacing existing signature
+2023-07-04 02:23:24 +0000  /var/folders/3n/d7d4qt690wl60js5_4g_r2440000gn/T/XcodeDistPipeline.~~~dTsv4V/Root/Payload/TVShows.app: signed app bundle with Mach-O thin (arm64) [lucas.com.TVShows]
+2023-07-04 02:23:24 +0000  /usr/bin/codesign exited with 0
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionZipODRItemStep
+2023-07-04 02:23:24 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionCreateIPAStep
+2023-07-04 02:23:24 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/3n/d7d4qt690wl60js5_4g_r2440000gn/T/XcodeDistPipeline.~~~dTsv4V/Root' '/var/folders/3n/d7d4qt690wl60js5_4g_r2440000gn/T/XcodeDistPipeline.~~~dTsv4V/Packages/TVShows.ipa'
+2023-07-04 02:23:24 +0000  >>> Copying /var/folders/3n/d7d4qt690wl60js5_4g_r2440000gn/T/XcodeDistPipeline.~~~dTsv4V/Root 
+2023-07-04 02:23:24 +0000  copying file ./Payload/TVShows.app/_CodeSignature/CodeResources ... 
+2023-07-04 02:23:24 +0000  5037 bytes for ./Payload/TVShows.app/_CodeSignature/CodeResources
+copying file ./Payload/TVShows.app/TVShowListCell.nib ... 
+2023-07-04 02:23:24 +0000  4920 bytes for ./Payload/TVShows.app/TVShowListCell.nib
+copying file ./Payload/TVShows.app/TVShowDetailViewController.nib ... 
+2023-07-04 02:23:24 +0000  7580 bytes for ./Payload/TVShows.app/TVShowDetailViewController.nib
+2023-07-04 02:23:24 +0000  copying file ./Payload/TVShows.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2023-07-04 02:23:24 +0000  930 bytes for ./Payload/TVShows.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Payload/TVShows.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+1197 bytes for ./Payload/TVShows.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/TVShows.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2023-07-04 02:23:24 +0000  258 bytes for ./Payload/TVShows.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/TVShows.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-07-04 02:23:24 +0000  1645 bytes for ./Payload/TVShows.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/TVShows.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2023-07-04 02:23:24 +0000  896 bytes for ./Payload/TVShows.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/TVShows.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+258 bytes for ./Payload/TVShows.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/TVShows.app/TVShows ... 
+2023-07-04 02:23:24 +0000  247856 bytes for ./Payload/TVShows.app/TVShows
+copying file ./Payload/TVShows.app/Assets.car ... 
+2023-07-04 02:23:24 +0000  81663 bytes for ./Payload/TVShows.app/Assets.car
+copying file ./Payload/TVShows.app/TVShowDetailCell.nib ... 
+2023-07-04 02:23:24 +0000  6125 bytes for ./Payload/TVShows.app/TVShowDetailCell.nib
+copying file ./Payload/TVShows.app/TVShowListViewController.nib ... 
+2023-07-04 02:23:24 +0000  6863 bytes for ./Payload/TVShows.app/TVShowListViewController.nib
+copying file ./Payload/TVShows.app/embedded.mobileprovision ... 
+2023-07-04 02:23:24 +0000  12493 bytes for ./Payload/TVShows.app/embedded.mobileprovision
+copying file ./Payload/TVShows.app/Info.plist ... 
+2023-07-04 02:23:24 +0000  1465 bytes for ./Payload/TVShows.app/Info.plist
+copying file ./Payload/TVShows.app/PkgInfo ... 
+2023-07-04 02:23:24 +0000  8 bytes for ./Payload/TVShows.app/PkgInfo
+2023-07-04 02:23:24 +0000  /usr/bin/ditto exited with 0
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2023-07-04 02:23:24 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2023-07-04 02:23:24 +0000  IDEDistributionItem init <DVTFilePath:0x6000408a55e0:'/var/folders/3n/d7d4qt690wl60js5_4g_r2440000gn/T/XcodeDistPipeline.~~~dTsv4V/Root/Payload/TVShows.app'>
+2023-07-04 02:23:24 +0000  Processing step: IDEDistributionCreateManifestStep
